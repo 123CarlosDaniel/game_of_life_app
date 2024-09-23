@@ -1,0 +1,6 @@
+[submodule "game-of-life"]
+	path = game-of-life
+	url = https://github.com/123CarlosDaniel/game-of-life
+[submodule "game-of-life-api"]
+	path = game-of-life-api
+	url = https://github.com/123CarlosDaniel/game-of-life-api
