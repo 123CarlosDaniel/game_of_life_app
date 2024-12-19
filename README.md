@@ -29,8 +29,8 @@ Una implementación del famoso "Juego de la Vida" de John Conway, creada con tec
 
 1. **Clonar el repositorio**
    ```bash
-   git clone [<URL-del-repositorio>](https://github.com/123CarlosDaniel/online-editor.git)
-   cd online-editor
+   git clone https://github.com/123CarlosDaniel/game_of_life_app
+   cd game_of_life_app
    ```
 
 2. **Configurar el entorno del frontend**
